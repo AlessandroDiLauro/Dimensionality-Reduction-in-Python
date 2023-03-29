@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>t-SNE vs PCA</title>
+	
 </head>
 <body>
 	<h1>t-SNE vs PCA</h1>
